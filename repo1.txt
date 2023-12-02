@@ -1,2 +1,4 @@
 fichero repo1
 Nuevo dato repo1
+Nueva linea en repo
+Otra  linea en repo
