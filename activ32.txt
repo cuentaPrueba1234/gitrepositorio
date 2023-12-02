@@ -1,0 +1,3 @@
+Fichero activ32
+Primera linea de activ32
+Segunda linea de activ32
