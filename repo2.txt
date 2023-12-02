@@ -1,2 +1,0 @@
-fichero repo2
-nuevo dato repo2
