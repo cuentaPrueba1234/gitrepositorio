@@ -1,5 +1,10 @@
 Fichero activ31
 Primera linea de activ31
 Segunda linea de activ31
+<<<<<<< HEAD
 Otra linea mas en activ31
 Y otra linea mas en activ31
+=======
+Tercera linea en fichero activi31
+Cuarta linea en fichero activ31
+>>>>>>> actividad3
